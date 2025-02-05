@@ -10,4 +10,4 @@ spec:
     app: my-app
   ports:
     - port: 80
-      targetPort
+      targetPort: 80
